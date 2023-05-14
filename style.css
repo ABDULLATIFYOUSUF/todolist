@@ -42,13 +42,13 @@ button{
     margin: 10px 0px 10px 5px;
     color: black !important;
     background-color: #d8b2d8 !important;
-    font-family: Brushstroke;
+    font-family: Brushstroke !important;
     
 }
 ul li{
     margin: 10px auto;
     font-size: 25px !important;
-    font-family: Brushstroke;
+    font-family: Brush Script MT;
     border-bottom: 5px solid #d8b2d8;
     width: 370px;
     height: 80px;
