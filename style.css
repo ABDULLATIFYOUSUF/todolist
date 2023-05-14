@@ -3,7 +3,7 @@
     margin: 10px;
 }
 .header{
-    width: 550px;
+    width: 400px;
     margin: 10px auto;
 }
 h1{
@@ -16,7 +16,7 @@ ul{
     list-style-type: none;
 }
 input{
-    width: 430px;
+    width: 280px;
     height: 50px;
     text-align: left;
     padding-left: 10px;
@@ -36,17 +36,20 @@ button{
 .btn{
     width: 60px;
     height: 60px;
+    font-size: medium;
+    text-align: center !important;
     border-radius: 50% !important;
     margin: 10px 0px 10px 5px;
     color: black !important;
     background-color: #d8b2d8 !important;
-    font-family: Arial, Helvetica, sans-serif !important;
+    font-family: Brushstroke;
+    
 }
 ul li{
     margin: 10px auto;
-    font-size: 30px !important;
-    font-family: Brush Script MT;
+    font-size: 25px !important;
+    font-family: Brushstroke;
     border-bottom: 5px solid #d8b2d8;
-    width: 500px;
+    width: 370px;
     height: 80px;
 }
